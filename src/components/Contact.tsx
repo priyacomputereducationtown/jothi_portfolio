@@ -20,17 +20,10 @@ export default function Contact() {
                                 <MapPin size={24} />
                             </div>
                             <div>
-                                <h3 className="text-xl font-bold text-slate-900 mb-2">Our Locations</h3>
-                                <div className="space-y-4">
-                                    <p className="text-slate-600 leading-relaxed">
-                                        <strong>Branch 1:</strong><br />
-                                        {instituteDetails.address}
-                                    </p>
-                                    <p className="text-slate-600 leading-relaxed whitespace-pre-wrap">
-                                        <strong>Branch 2:</strong><br />
-                                        {instituteDetails.address2}
-                                    </p>
-                                </div>
+                                <h3 className="text-xl font-bold text-slate-900 mb-2">Our Location</h3>
+                                <p className="text-slate-600 leading-relaxed">
+                                    {instituteDetails.address}
+                                </p>
                             </div>
                         </div>
 
