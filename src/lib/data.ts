@@ -20,9 +20,10 @@ export const courses = [
 ];
 
 export const instituteDetails = {
-    name: "Jothi Computer Education",
-    address: "No. 117, Sethu Muthuram Building, 2nd Floor, Tiruchendur Road, Palayamkottai, Tirunelveli – 627002, Tamil Nadu India",
-    phone: "9952154227",
-    whatsapp: "919952154227", // Assuming Indian code +91
+    name: "Priya Computer Education",
+    address: "First Floor Pallivasal Complex, Palai Bus Stop – 02, Tirunelveli",
+    address2: "12/10A South Car Street,\nNearby KVB Bank,\nSanthi Pillaiyar Kovil Mukku,\nTirunelveli Town\nTamilnadu - 627006",
+    phone: "7845554227",
+    whatsapp: "917845554227", // Assuming Indian code +91
     mapsUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1000!2d77.7!3d8.7!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNDInMDAuMCJOIDc3wrQ0MiowMC4wIkU!5e0!3m2!1sen!2sin!4v1600000000000!5m2!1sen!2sin", // Placeholder
 };
